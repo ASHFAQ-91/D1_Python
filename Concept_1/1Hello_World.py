@@ -15,3 +15,5 @@ print(a);
 # a = ""hello hi""       //BUG: give error
 a = """hello Valo"""
 print(a);
+
+# Lets check on 12 July
