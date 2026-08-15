@@ -1,0 +1,7 @@
+order_id,customer_name,city,product,category,quantity,price_per_unit,discount_percent,order_date,delivery_date,payment_mode,order_status,rating
+13,Masq,Jaipur,Phone,Electronics,3,566,5,05/01/2026,06/01/2026,UPI,Delivered,5
+14,Mudit,UP,Phone,Electronics,444,90011,12,10/01/2026,10/01/2026,Credit Card,Delivered,4
+1,Yash,Gujrat,Headphone,Electronics,885,179456,19,06/01/2026,14/1/2026,UPI,Cancelled,4
+2,Kanishk,UP,Laptop,Electronics,1326,268901,26,10/01/2026,18/1/2026,Credit Card,Cancelled,6
+4,Avinash,Nepal,Headphone,Electronics,1767,358346,33,14/1/2026,22/1/2026,UPI,Delivered,7
+3,Naveen,Jaipur,Headphone,Electronics,2208,447791,40,18/1/2026,26/1/2026,Credit Card,Delivered,9
